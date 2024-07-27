@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola 👋
+- 📖🌱 Actualmente estudiando Ingeniería de Sistemas Informáticos
 
 <!--
 **pl14002/pl14002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
